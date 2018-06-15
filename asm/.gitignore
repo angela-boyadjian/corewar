@@ -1,0 +1,9 @@
+.vscode
+srcs/op.c
+include/op.h
+fenix.cor
+fenix.s
+zork.cor
+test.s
+test.cor
+norm.rb
